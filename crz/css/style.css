@@ -1,0 +1,36 @@
+table{
+    margin: 0em 1em 1em 1em;
+}
+
+#biaoti{
+    font-weight: bold;
+    text-align: center;
+    margin-left: 1em;
+}
+
+#info{
+    vertical-align: top;
+}
+
+p.info{
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 1em;
+}
+
+p.validity{
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+#validity{
+    font-weight: bold;
+    color: red;
+    margin: 2em 1em 2em 1em;
+}
+
+#qrcode{
+    margin-left: 8em;
+    width: 250px;
+    height: 250px;
+}
