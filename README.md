@@ -1,5 +1,5 @@
 # (deprecated)BIPT-Pass-Gen
-【过时的】北石化出入证生成工具 [新版在这里]([https://www.runoob.com](https://github.com/anthonyliu0417/biptPassGenNew))
+【过时的】北石化出入证生成工具 [新版在这里](https://github.com/anthonyliu0417/biptPassGenNew)
 
 ### iOS系统的cookie不支持中文字符，本程序使用了encodeURIComponent进行编码
 
